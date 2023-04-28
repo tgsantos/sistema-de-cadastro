@@ -3,5 +3,5 @@
 > Status do projeto: Em desenvolvimento
 
 ```
-pip install pandas
+node app.js
 ```
